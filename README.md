@@ -5,12 +5,6 @@
   Building AI-powered apps, DeFi protocols, and interactive UI experiences.
 </p>
 
-<p align="center">
-  <a href="https://frank-town.com">Portfolio</a> • 
-  <a href="https://github.com/meohyun2">GitHub</a> • 
-  <a href="mailto:eogus6242@gmail.com">Email</a>
-</p>
-
 ---
 
 ### 🚀 About Me
